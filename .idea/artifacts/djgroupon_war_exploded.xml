@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="djgroupon:war exploded">
+    <output-path>D:/djncps/djgroupon/target/djgroupon</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="djgroupon" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/djncps/djgroupon/target/djgroupon/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="djgroupon/web/Web" />
+    </root>
+  </artifact>
+</component>

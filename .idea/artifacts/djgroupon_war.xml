@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="djgroupon:war">
+    <output-path>D:/djncps/djgroupon/target</output-path>
+    <root id="archive" name="djgroupon.war">
+      <element id="artifact" artifact-name="djgroupon:war exploded" />
+    </root>
+  </artifact>
+</component>
